@@ -1,5 +1,5 @@
-# CLI ColorTest
-CLI ColorTest - Script
+# CLI DNS Test and Reset
+DNS_Test and Reset - Script
 
-Script to display all terminal colors with 256 ANSI escape codes.
+Script to Test and reset Domain name servers.
 to be continued.........
